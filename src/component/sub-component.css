@@ -1,0 +1,11 @@
+.count {
+  appearance: none;
+  font-size: 14px;
+  font-weight: bold;
+  &__important {
+    color: red;
+    &___unti {
+      color: blue;
+    }
+  }
+}

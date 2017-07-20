@@ -1,0 +1,17 @@
+.btn {
+  appearance: none;
+  display: inline-block;
+  position: relative;
+  font-size: 16rem;
+  text-align: center;
+  line-height: 30px;
+  &___large {
+    font-size: 20rem;
+  }
+  &___small {
+    font-size: 12rem;
+  }
+  &___primary {
+    background-color: red;
+  }
+}
